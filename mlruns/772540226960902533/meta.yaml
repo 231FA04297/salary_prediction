@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/LENOVO/salary_prediction/mlruns/772540226960902533
+creation_time: 1788324509187
+effective_trace_archival_retention: null
+experiment_id: '772540226960902533'
+last_update_time: 1788324509187
+lifecycle_stage: active
+name: Salary_Prediction_Experiment
+trace_location: null
+workspace: default
